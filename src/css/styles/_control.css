@@ -1,0 +1,13 @@
+@layer components {
+
+  .title_page {
+    background: linear-gradient(to right ,#d3f2e9,#53c8e3);
+    padding: 10px;
+    border-radius: 10px 10px 0px 0px;
+  }
+
+  .button_custom {
+    background: linear-gradient(to right ,#d3f2e9,#53c8e3);
+    box-shadow: #ddd 1px 1px 0px;
+  }
+}
